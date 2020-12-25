@@ -49,6 +49,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/debarun-roy-20288a122/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Debarun%20Roy-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://twitter.com/DevDebarun"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-DevDebarun?style=flat-square&logo=twitter"></a>
+<a href="https://twitter.com/DevDebarun"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-DevDebarun-important?style=flat-square&logo=twitter"></a>
+<a href="https://www.instagram.com/its_debarun_roy/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-its_debarun_roy-blueviolet?style=flat-square&logo=instagram"></a>  
 
 </p>
