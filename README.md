@@ -1,5 +1,4 @@
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fpremium-vector%2Fman-working-his-computer_779499.htm&psig=AOvVaw1C1FwUHkO_JMVNAkKjCg0D&ust=1608998352797000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKDh3ovA6e0CFQAAAAAdAAAAABAI">
-
+<a href="https://ibb.co/MSvfCWM"><img src="https://i.ibb.co/jfNzrBg/6348737.png" alt="6348737" border="0"></a>
 <h2> Hey there! I'm Debarun.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
