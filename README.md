@@ -1,4 +1,4 @@
-<a href="https://ibb.co/MSvfCWM"><img src="https://i.ibb.co/jfNzrBg/6348737.png" alt="6348737" border="0"></a>
+<a width="100%" href="https://ibb.co/MSvfCWM"><img src="https://i.ibb.co/jfNzrBg/6348737.png" alt="6348737" border="0"></a>
 <h2> Hey there! I'm Debarun.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
