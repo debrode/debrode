@@ -37,7 +37,7 @@
 
 <br/>
 
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/debrode">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=debrode&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debrode&theme=buefy&layout=compact" />
 </a>
