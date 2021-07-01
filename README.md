@@ -5,7 +5,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions to solve real-world problems.
 - 💼 &nbsp; Software Developer, having skills in Front-end Development ,ML algorithms and Neural Networks  .
-- 🌱 &nbsp; Love to solve problems tweaking DS and Algo and 3⭐ coder @Codechef.
+- 🌱 &nbsp; Love to solve problems tweaking DS and Algo and 4 ⭐ coder @Codechef.
 - ✍️ &nbsp; Learning and exploring more about Web Development(React.js,Node.js) and Deep Learning(CNN)
 - 🎓 &nbsp; Studying Computer Science and Engineering at Government College of Engineering and Leather Technology.
 
