@@ -4,10 +4,10 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions to solve real-world problems.
-- 💼 &nbsp; Software Developer, having skills in Front-end Development ,ML algorithms and Neural Networks  .
-- 🌱 &nbsp; Love to solve problems tweaking DS and Algo and 4 ⭐ coder @Codechef.
+- 💼 &nbsp; Software Developer @TCS, having skills in BackEnd Development using Spring Framework, PL SQL, Javascript, handling Large Scale systems and Services, ML algorithms and Neural Networks.
+- 🌱 &nbsp;  love to solve problems by tweaking DS and Algo and 4 ⭐ coder @Codechef.
 - ✍️ &nbsp; Learning and exploring more about Web Development(React.js,Node.js) and Deep Learning(CNN)
-- 🎓 &nbsp; Studying Computer Science and Engineering at Government College of Engineering and Leather Technology.
+- 🎓 &nbsp; Studied Computer Science and Engineering at the Government College of Engineering and Leather Technology.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -32,7 +32,6 @@
   
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![RStudio](https://img.shields.io/badge/-Atom-333333?style=flat&logo=rstudio)
   ![Eclipse](https://img.shields.io/badge/-Sublime%20Code-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
    
 
