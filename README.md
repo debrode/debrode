@@ -1,4 +1,4 @@
-![COVER](https://user-images.githubusercontent.com/37272507/104806175-900b4e80-57fb-11eb-9e4d-f92c43bb74f9.jpg)
+;![COVER](https://user-images.githubusercontent.com/37272507/104806175-900b4e80-57fb-11eb-9e4d-f92c43bb74f9.jpg)
 <h2> Hey there! I'm Debarun.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
